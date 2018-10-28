@@ -3,7 +3,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
-It is a simple color mismatch game created using this boilerplate code.
+It is a simple color mismatch game created using this boilerplate code for an assignment given by Cleartax.pvt.ltd.
 Link to Live Application - https://serene-castle-79017.herokuapp.com/
 
 ## Table of Contents
